@@ -4173,7 +4173,7 @@ label {
     grid-template-columns: repeat(1, 1fr);
   }
   .cs_footer_info a {
-    font-size: 32px !important;
+    font-size: 25px !important;
     margin-bottom: 25px !important;
   }
   .cs_footer_info p {

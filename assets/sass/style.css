@@ -3910,11 +3910,15 @@ label {
     grid-template-columns: repeat(1, 1fr);
   }
   .cs_footer_info a {
-    font-size: 32px !important;
+    font-size: 25px !important;
     margin-bottom: 25px !important;
   }
   .cs_footer_info p {
     margin-bottom: 25px !important;
+  }
+
+  .mob-mar {
+    margin-top: 20px !important;
   }
 }
 /*--------------------------------------------------------------
@@ -6863,3 +6867,13 @@ label {
     margin-top: 0px;
   }
 } /*# sourceMappingURL=style.css.map */
+
+@media (max-width: 575px) {
+  .cs_height_60 {
+    height: 60px !important;
+  }
+
+  .mob-mar {
+    margin-top: 20px !important;
+  }
+}
